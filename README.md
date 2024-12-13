@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Chavan</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Express JS**
 
 - 📫 How to reach me **chavanaryan58@gmail.com**
 
