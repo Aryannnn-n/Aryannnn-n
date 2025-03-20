@@ -55,23 +55,3 @@
 </p>
 
 ---
-
-<h3 align="left">📊 GitHub Dashboard:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryannnn-n&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryannnn-n&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryannnn-n&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryannnn-n&theme=radical" alt="GitHub Profile Summary" />
-</p>
-
----
