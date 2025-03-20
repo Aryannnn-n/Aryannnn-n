@@ -6,7 +6,6 @@
 - 💻 Built an **Airbnb Clone** named **Arrival** and hosted it on GitHub
 - 📫 How to reach me: **chavanaryan58@gmail.com**
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +20,7 @@
   </a>
 </p>
 
----
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
