@@ -6,12 +6,22 @@
 - 💻 Built an **Airbnb Clone** named **Arrival** and hosted it on GitHub
 - 📫 How to reach me: **chavanaryan58@gmail.com**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/@aryan_chavan_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aryan_chavan_" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/aryan-chavan-b4380321b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-chavan-b4380321b" height="30" width="40" /></a>
-  <a href="https://github.com/Aryannnn-n" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://twitter.com/@aryan_chavan_" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aryan_chavan_" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/aryan-chavan-b4380321b" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Aryannnn-n" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -44,10 +54,24 @@
   </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryannnn-n&show_icons=true&theme=radical" alt="Aryan's GitHub Stats" />
+---
+
+<h3 align="left">📊 GitHub Dashboard:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryannnn-n&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<p align="left">
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryannnn-n&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryannnn-n&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryannnn-n&theme=radical" alt="GitHub Profile Summary" />
+</p>
+
+---
