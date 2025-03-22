@@ -24,13 +24,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a style=outline:none  href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a   href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
   </a> 
-  <a style=outline:none href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <a  href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a> 
-  <a style=outline:none  href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <a   href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
